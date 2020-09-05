@@ -1,0 +1,23 @@
+span,
+p {
+  background-color: pink;
+  width: 100px;
+  height: 100px;
+}
+
+.info {
+  background-color: transparent;
+  display: inline;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.block {
+  display: block;
+}
+
+.inline {
+  display: inline;
+}
