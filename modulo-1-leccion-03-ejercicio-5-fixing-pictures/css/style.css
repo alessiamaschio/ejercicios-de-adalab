@@ -1,0 +1,13 @@
+.box {
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  background-color: red;
+  border: 5px black solid;
+  box-sizing: border-box;
+  margin: auto;
+}
+
+.rabbit {
+  height: 100%;
+}
