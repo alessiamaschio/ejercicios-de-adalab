@@ -1,0 +1,12 @@
+* {
+ 
+     */
+  background-color: violet;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  width: 1000px;
+}
