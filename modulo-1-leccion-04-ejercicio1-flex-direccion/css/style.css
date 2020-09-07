@@ -1,0 +1,25 @@
+* {
+  border: 1px solid rgb(224, 62, 216);
+}
+
+.container1 {
+  border: 1px solid rgb(224, 62, 216);
+  background-color: yellow;
+  height: 500px;
+  width: 500px;
+  display: flex;
+  flex-direction: row;
+}
+
+.container2 {
+  border: 1px solid red;
+  background-color: green;
+  height: 500px;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+}
+
+.container1 span.item {
+  width: 18px;
+}
