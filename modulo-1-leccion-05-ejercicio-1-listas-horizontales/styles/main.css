@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+.list {
+  background-color: darkgray;
+  border: 1px solid black;
+  padding: 0;
+  text-align: center;
+}
+
+.item {
+  text-align: center;
+  display: inline;
+  background-color: aquamarine;
+  border: 1px solid black;
+  list-style: none;
+  margin-right: 16px;
+}
