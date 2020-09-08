@@ -1,0 +1,19 @@
+/* .header {
+  background-color: purple;
+  top: 0;
+  position: fixed;
+  width: 100%;
+  text-align: center;
+}
+
+.container {
+  overflow: auto;
+} */
+
+.div10 {
+  width: 100%;
+  height: 100px;
+  background-color: yellow;
+  position: fixed;
+  bottom: 0;
+}
