@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: pink;
+}
+
+.header {
+  max-width: 600px;
+  background-color: yellow;
+  position: absolute;
+}

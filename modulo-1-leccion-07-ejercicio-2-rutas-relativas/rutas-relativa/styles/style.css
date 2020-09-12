@@ -1,0 +1,7 @@
+.background {
+  background-image: url(../images/mi-foto.jpg);
+
+  width: 300px;
+  height: 168px;
+  border: 1px solid black;
+}
